@@ -9,9 +9,15 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "react": "^19.0.0",
+    "@tabler/icons-react": "^3.31.0",
+    "clsx": "^2.1.1",
+    "framer-motion": "^12.7.3",
+    "icons": "^1.0.0",
+    "motion": "^12.7.3",
+    "next": "15.3.0",
+    "react": "^19.1.0",
     "react-dom": "^19.0.0",
-    "next": "15.3.0"
+    "tailwind-merge": "^3.2.0"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
